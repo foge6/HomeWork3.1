@@ -29,25 +29,6 @@
 // }
 
 
-// Console.WriteLine("Write first number");
-// int numb1 = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Write first number");
-// int numb2 = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Write first number");
-// int numb3 = Convert.ToInt32(Console.ReadLine());
-// int max = numb1;
-
-// if (max < numb2) 
-
-//     max = numb2;
-
-// if (max < numb3)
-
-//     max = numb3;
-    
-// Console.WriteLine($"Number {max} is bigger");
-
-
 // Console.WriteLine("Write number");
 // int numb = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine(numb % 2);
